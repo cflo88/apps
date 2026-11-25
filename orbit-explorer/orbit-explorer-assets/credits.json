@@ -1,0 +1,452 @@
+[
+ {
+  "file": "tex/sun.jpg",
+  "group": "tex",
+  "caption": "",
+  "title": "Solarsystemscope texture 2k sun.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Solar System Scope",
+  "page": "https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_sun.jpg"
+ },
+ {
+  "file": "tex/mercury.jpg",
+  "group": "tex",
+  "caption": "",
+  "title": "Solarsystemscope texture 2k mercury.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Solar System Scope",
+  "page": "https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_mercury.jpg"
+ },
+ {
+  "file": "tex/venus.jpg",
+  "group": "tex",
+  "caption": "",
+  "title": "Solarsystemscope texture 2k venus atmosphere.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Solar System Scope",
+  "page": "https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_venus_atmosphere.jpg"
+ },
+ {
+  "file": "tex/earth_day.jpg",
+  "group": "tex",
+  "caption": "",
+  "title": "Solarsystemscope texture 2k earth daymap.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Solar System Scope",
+  "page": "https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_earth_daymap.jpg"
+ },
+ {
+  "file": "tex/earth_night.jpg",
+  "group": "tex",
+  "caption": "",
+  "title": "Solarsystemscope texture 2k earth nightmap.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Solar System Scope",
+  "page": "https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_earth_nightmap.jpg"
+ },
+ {
+  "file": "tex/earth_clouds.jpg",
+  "group": "tex",
+  "caption": "",
+  "title": "Solarsystemscope texture 2k earth clouds.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Solar System Scope",
+  "page": "https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_earth_clouds.jpg"
+ },
+ {
+  "file": "tex/moon.jpg",
+  "group": "tex",
+  "caption": "",
+  "title": "Solarsystemscope texture 2k moon.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Solar System Scope",
+  "page": "https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_moon.jpg"
+ },
+ {
+  "file": "tex/mars.jpg",
+  "group": "tex",
+  "caption": "",
+  "title": "Solarsystemscope texture 2k mars.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Solar System Scope",
+  "page": "https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_mars.jpg"
+ },
+ {
+  "file": "tex/jupiter.jpg",
+  "group": "tex",
+  "caption": "",
+  "title": "Solarsystemscope texture 2k jupiter.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Solar System Scope",
+  "page": "https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_jupiter.jpg"
+ },
+ {
+  "file": "tex/saturn.jpg",
+  "group": "tex",
+  "caption": "",
+  "title": "Solarsystemscope texture 2k saturn.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Solar System Scope",
+  "page": "https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_saturn.jpg"
+ },
+ {
+  "file": "tex/saturn_ring.png",
+  "group": "tex",
+  "caption": "",
+  "title": "Solarsystemscope texture 2k saturn ring alpha.png",
+  "license": "CC BY 4.0",
+  "artist": "Solar System Scope",
+  "page": "https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_saturn_ring_alpha.png"
+ },
+ {
+  "file": "tex/uranus.jpg",
+  "group": "tex",
+  "caption": "",
+  "title": "Solarsystemscope texture 2k uranus.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Solar System Scope",
+  "page": "https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_uranus.jpg"
+ },
+ {
+  "file": "tex/neptune.jpg",
+  "group": "tex",
+  "caption": "",
+  "title": "Solarsystemscope texture 2k neptune.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Solar System Scope",
+  "page": "https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_neptune.jpg"
+ },
+ {
+  "file": "tex/milkyway.jpg",
+  "group": "tex",
+  "caption": "",
+  "title": "Solarsystemscope texture 2k stars milky way.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Solar System Scope",
+  "page": "https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_stars_milky_way.jpg"
+ },
+ {
+  "file": "img/sun1.jpg",
+  "group": "sun",
+  "caption": "The Sun seen by NASA's Solar Dynamics Observatory",
+  "title": "Full disk of the Sun (eso1703e-comparisona).jpg",
+  "license": "CC BY 4.0",
+  "artist": "NASA/SDO, ALMA (ESO/NAOJ/NRAO)",
+  "page": "https://commons.wikimedia.org/wiki/File:Full_disk_of_the_Sun_(eso1703e-comparisona).jpg"
+ },
+ {
+  "file": "img/sun2.png",
+  "group": "sun",
+  "caption": "A solar prominence: a huge loop of hot gas leaping off the Sun",
+  "title": "Solar prominence 2011-04-14T202956.120.png",
+  "license": "Public domain",
+  "artist": "NASA/SDO",
+  "page": "https://commons.wikimedia.org/wiki/File:Solar_prominence_2011-04-14T202956.120.png"
+ },
+ {
+  "file": "img/mercury1.jpg",
+  "group": "mercury",
+  "caption": "Mercury in enhanced color, from the MESSENGER spacecraft",
+  "title": "Mercury in color - Prockter07-edit1.jpg",
+  "license": "Public domain",
+  "artist": "Wikimedia Commons contributor",
+  "page": "https://commons.wikimedia.org/wiki/File:Mercury_in_color_-_Prockter07-edit1.jpg"
+ },
+ {
+  "file": "img/venus1.jpg",
+  "group": "venus",
+  "caption": "Venus in true color. Thick clouds hide the ground.",
+  "title": "Venus-real color.jpg",
+  "license": "Public domain",
+  "artist": "NASA or Ricardo Nunes",
+  "page": "https://commons.wikimedia.org/wiki/File:Venus-real_color.jpg"
+ },
+ {
+  "file": "img/venus2.png",
+  "group": "venus",
+  "caption": "Venus from Mariner 10 in 1974",
+  "title": "Venus Mariner 10 true color.png",
+  "license": "Public domain",
+  "artist": "Omarius257",
+  "page": "https://commons.wikimedia.org/wiki/File:Venus_Mariner_10_true_color.png"
+ },
+ {
+  "file": "img/earth1.jpg",
+  "group": "earth",
+  "caption": "The Blue Marble, taken by the Apollo 17 crew in 1972",
+  "title": "The Earth seen from Apollo 17.jpg",
+  "license": "Public domain",
+  "artist": "NASA/Apollo 17 crew; taken by either Harrison Schmitt or Ron Evans",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg"
+ },
+ {
+  "file": "img/earth2.jpg",
+  "group": "earth",
+  "caption": "Earthrise: Earth coming up over the Moon, Apollo 8, 1968",
+  "title": "NASA-Apollo8-Dec24-Earthrise.jpg",
+  "license": "Public domain",
+  "artist": "NASA/Bill Anders",
+  "page": "https://commons.wikimedia.org/wiki/File:NASA-Apollo8-Dec24-Earthrise.jpg"
+ },
+ {
+  "file": "img/earth3.jpg",
+  "group": "earth",
+  "caption": "Southern lights seen from the International Space Station",
+  "title": "Aurora Australis From ISS.JPG",
+  "license": "Public domain",
+  "artist": "ISS Expedition 23 crew",
+  "page": "https://commons.wikimedia.org/wiki/File:Aurora_Australis_From_ISS.JPG"
+ },
+ {
+  "file": "img/moon1.jpg",
+  "group": "moon",
+  "caption": "The full Moon",
+  "title": "FullMoon2010.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Gregory H. Revera",
+  "page": "https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg"
+ },
+ {
+  "file": "img/moon2.jpg",
+  "group": "moon",
+  "caption": "Buzz Aldrin on the Moon, Apollo 11, 1969",
+  "title": "Aldrin Apollo 11.jpg",
+  "license": "Public domain",
+  "artist": "Neil A. Armstrong",
+  "page": "https://commons.wikimedia.org/wiki/File:Aldrin_Apollo_11.jpg"
+ },
+ {
+  "file": "img/moon3.jpg",
+  "group": "moon",
+  "caption": "A total lunar eclipse. Earth's shadow turns the Moon red.",
+  "title": "Total Lunar Eclipse 28 09 2015.JPG",
+  "license": "CC BY-SA 3.0 at",
+  "artist": "Wikimedia Commons contributor",
+  "page": "https://commons.wikimedia.org/wiki/File:Total_Lunar_Eclipse_28_09_2015.JPG"
+ },
+ {
+  "file": "img/moon4.jpg",
+  "group": "moon",
+  "caption": "A month of Moon phases, May 2005",
+  "title": "Moon phase calendar May2005.jpg",
+  "license": "Public domain",
+  "artist": "Tomruen at English Wikipedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Moon_phase_calendar_May2005.jpg"
+ },
+ {
+  "file": "img/mars1.jpg",
+  "group": "mars",
+  "caption": "Mars in true color, from the Rosetta spacecraft",
+  "title": "OSIRIS Mars true color.jpg",
+  "license": "CC BY-SA 3.0 igo",
+  "artist": "Wikimedia Commons contributor",
+  "page": "https://commons.wikimedia.org/wiki/File:OSIRIS_Mars_true_color.jpg"
+ },
+ {
+  "file": "img/mars2.jpg",
+  "group": "mars",
+  "caption": "Valles Marineris, a canyon as long as the United States is wide",
+  "title": "Mars Valles Marineris.jpeg",
+  "license": "Public domain",
+  "artist": "NASA / USGS (see PIA04304 catalog page)",
+  "page": "https://commons.wikimedia.org/wiki/File:Mars_Valles_Marineris.jpeg"
+ },
+ {
+  "file": "img/mars3.jpg",
+  "group": "mars",
+  "caption": "Olympus Mons, the tallest volcano in the solar system",
+  "title": "Olympus Mons alt.jpg",
+  "license": "Public domain",
+  "artist": "Image by NASA, modifications by Seddon",
+  "page": "https://commons.wikimedia.org/wiki/File:Olympus_Mons_alt.jpg"
+ },
+ {
+  "file": "img/mars4.jpg",
+  "group": "mars",
+  "caption": "The Curiosity rover taking a selfie on Mars",
+  "title": "Curiosity Self-Portrait at 'Big Sky' Drilling Site.jpg",
+  "license": "Public domain",
+  "artist": "NASA",
+  "page": "https://commons.wikimedia.org/wiki/File:Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg"
+ },
+ {
+  "file": "img/jupiter1.jpg",
+  "group": "jupiter",
+  "caption": "Jupiter and its Great Red Spot, from the Hubble Space Telescope",
+  "title": "Jupiter and its shrunken Great Red Spot.jpg",
+  "license": "Public domain",
+  "artist": "NASA, ESA, and A. Simon (Goddard Space Flight Center)",
+  "page": "https://commons.wikimedia.org/wiki/File:Jupiter_and_its_shrunken_Great_Red_Spot.jpg"
+ },
+ {
+  "file": "img/saturn1.jpg",
+  "group": "saturn",
+  "caption": "Saturn and its rings, from the Cassini spacecraft",
+  "title": "Saturn during Equinox.jpg",
+  "license": "Public domain",
+  "artist": "NASA / JPL / Space Science Institute",
+  "page": "https://commons.wikimedia.org/wiki/File:Saturn_during_Equinox.jpg"
+ },
+ {
+  "file": "img/uranus1.jpg",
+  "group": "uranus",
+  "caption": "Uranus from Voyager 2 in 1986",
+  "title": "Uranus2.jpg",
+  "license": "Public domain",
+  "artist": "NASA/JPL-Caltech",
+  "page": "https://commons.wikimedia.org/wiki/File:Uranus2.jpg"
+ },
+ {
+  "file": "img/neptune1.jpg",
+  "group": "neptune",
+  "caption": "Neptune from Voyager 2 in 1989",
+  "title": "Neptune Full.jpg",
+  "license": "Public domain",
+  "artist": "NASA",
+  "page": "https://commons.wikimedia.org/wiki/File:Neptune_Full.jpg"
+ },
+ {
+  "file": "img/io.jpg",
+  "group": "Io",
+  "caption": "Io, the most volcanic place in the solar system",
+  "title": "Io highest resolution true color.jpg",
+  "license": "Public domain",
+  "artist": "NASA / JPL / University of Arizona",
+  "page": "https://commons.wikimedia.org/wiki/File:Io_highest_resolution_true_color.jpg"
+ },
+ {
+  "file": "img/europa.jpg",
+  "group": "Europa",
+  "caption": "Europa. An ocean may be hiding under its ice.",
+  "title": "Europa-moon-with-margins.jpg",
+  "license": "Public domain",
+  "artist": "NASA/JPL/DLR",
+  "page": "https://commons.wikimedia.org/wiki/File:Europa-moon-with-margins.jpg"
+ },
+ {
+  "file": "img/ganymede.jpg",
+  "group": "Ganymede",
+  "caption": "Ganymede, the biggest moon in the solar system",
+  "title": "Ganymede g1 true-edit1.jpg",
+  "license": "Public domain",
+  "artist": "NASA/JPL (edited by PlanetUser)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ganymede_g1_true-edit1.jpg"
+ },
+ {
+  "file": "img/callisto.jpg",
+  "group": "Callisto",
+  "caption": "Callisto, covered in craters",
+  "title": "Callisto.jpg",
+  "license": "Public domain",
+  "artist": "NASA/JPL/DLR(German Aerospace Center)",
+  "page": "https://commons.wikimedia.org/wiki/File:Callisto.jpg"
+ },
+ {
+  "file": "img/titan.jpg",
+  "group": "Titan",
+  "caption": "Titan, wrapped in thick orange haze",
+  "title": "Titan in true color.jpg",
+  "license": "Public domain",
+  "artist": "NASA/JPL-Caltech/Space Science Institute",
+  "page": "https://commons.wikimedia.org/wiki/File:Titan_in_true_color.jpg"
+ },
+ {
+  "file": "img/enceladus.jpg",
+  "group": "Enceladus",
+  "caption": "Enceladus, which sprays water into space",
+  "title": "PIA17202 - Approaching Enceladus.jpg",
+  "license": "Public domain",
+  "artist": "Wikimedia Commons contributor",
+  "page": "https://commons.wikimedia.org/wiki/File:PIA17202_-_Approaching_Enceladus.jpg"
+ },
+ {
+  "file": "img/phobos.jpg",
+  "group": "Phobos",
+  "caption": "Phobos, one of Mars's two tiny moons",
+  "title": "Phobos colour 2008.jpg",
+  "license": "Public domain",
+  "artist": "NASA / JPL-Caltech / University of Arizona",
+  "page": "https://commons.wikimedia.org/wiki/File:Phobos_colour_2008.jpg"
+ },
+ {
+  "file": "img/triton.jpg",
+  "group": "Triton",
+  "caption": "Triton, from Voyager 2",
+  "title": "Triton moon mosaic Voyager 2 (large).jpg",
+  "license": "Public domain",
+  "artist": "NASA / Jet Propulsion Lab / U.S. Geological Survey",
+  "page": "https://commons.wikimedia.org/wiki/File:Triton_moon_mosaic_Voyager_2_(large).jpg"
+ },
+ {
+  "file": "img/iss.jpg",
+  "group": "International Space Station",
+  "caption": "The International Space Station, photographed from a space shuttle",
+  "title": "International Space Station after undocking of STS-132.jpg",
+  "license": "Public domain",
+  "artist": "NASA/Crew of STS-132",
+  "page": "https://commons.wikimedia.org/wiki/File:International_Space_Station_after_undocking_of_STS-132.jpg"
+ },
+ {
+  "file": "img/hubble.jpg",
+  "group": "Hubble Space Telescope",
+  "caption": "Hubble, just after astronauts repaired it in 2009",
+  "title": "HST-SM4.jpeg",
+  "license": "Public domain",
+  "artist": "Ruffnax (Crew of STS-125)",
+  "page": "https://commons.wikimedia.org/wiki/File:HST-SM4.jpeg"
+ },
+ {
+  "file": "img/vanguard.jpg",
+  "group": "Vanguard 1",
+  "caption": "Vanguard 1, about the size of a grapefruit",
+  "title": "Vanguard1.jpg",
+  "license": "Public domain",
+  "artist": "NASA",
+  "page": "https://commons.wikimedia.org/wiki/File:Vanguard1.jpg"
+ },
+ {
+  "file": "img/starlink.jpg",
+  "group": "net",
+  "caption": "A stack of Starlink internet satellites before launch",
+  "title": "Starlink Mission (47926144123).jpg",
+  "license": "CC0",
+  "artist": "Official SpaceX Photos",
+  "page": "https://commons.wikimedia.org/wiki/File:Starlink_Mission_(47926144123).jpg"
+ },
+ {
+  "file": "img/gps.jpg",
+  "group": "nav",
+  "caption": "A GPS navigation satellite",
+  "title": "GPS Block IIIA.jpg",
+  "license": "Public domain",
+  "artist": "U.S. Air Force",
+  "page": "https://commons.wikimedia.org/wiki/File:GPS_Block_IIIA.jpg"
+ },
+ {
+  "file": "img/debris_leo.jpg",
+  "group": "junk",
+  "caption": "NASA map of tracked objects in low orbit. Each dot is a piece we know about.",
+  "title": "Debris-LEO1280.jpg",
+  "license": "Public domain",
+  "artist": "NASA employee",
+  "page": "https://commons.wikimedia.org/wiki/File:Debris-LEO1280.jpg"
+ },
+ {
+  "file": "img/debris_geo.jpg",
+  "group": "geo",
+  "caption": "NASA map of objects out in the far ring, 36,000 km up",
+  "title": "Debris-GEO1280.jpg",
+  "license": "Public domain",
+  "artist": "NASA image",
+  "page": "https://commons.wikimedia.org/wiki/File:Debris-GEO1280.jpg"
+ },
+ {
+  "file": "img/envisat_view.jpg",
+  "group": "Envisat",
+  "caption": "A picture Envisat took of New Caledonia before it stopped working",
+  "title": "Envisat looks at New Caledonia.jpg",
+  "license": "CC BY-SA 3.0 igo",
+  "artist": "European Space Agency",
+  "page": "https://commons.wikimedia.org/wiki/File:Envisat_looks_at_New_Caledonia.jpg"
+ }
+]
